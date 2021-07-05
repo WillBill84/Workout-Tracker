@@ -41,4 +41,8 @@ Library used:
 link to live version:
 https://beautiful-yellowstone-29264.herokuapp.com/
 
+<img width="1273" alt="Screen Shot 2021-07-05 at 5 03 49 pm" src="https://user-images.githubusercontent.com/78286026/124431027-3b608d80-ddb3-11eb-9dd9-e9dd657e820e.png">
+
+Screen Shot 2021-07-05 at 5.04.41 pm<img width="1277" alt="Screen Shot 2021-07-05 at 5 04 41 pm" src="https://user-images.githubusercontent.com/78286026/124431130-56cb9880-ddb3-11eb-8c99-2080c63c00b7.png">
+
 
