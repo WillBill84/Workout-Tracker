@@ -47,7 +47,7 @@ router.post("/api/workouts", (req, res) => {
 
 });
 
-
+/* getWorkoutsInRange */
 router.get("/api/workouts/range", (req, res) => {
     Workout.aggregate([
         {
