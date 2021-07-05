@@ -3,13 +3,15 @@
 
 ## Description
 
-A fitness tracking app, that allows a user to create and track daily workouts. For this assignment I was provided front end code that needed a Mongo database with a Mongoose schema and to develop and the routes with express. 
+A fitness tracking app, that allows a user to create and track daily workouts. For this assignment I was provided front end code that need the backend developed.  I created the Mongo database, Mongoose schema and developed the routes with uses express. 
 
 
 ## Installation and Usage
 
 • Install NPM dependencies before running application.
+
 • To seed the file run: npm run seed
+
 • run from terminal using npm start
 
 
