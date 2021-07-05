@@ -3,7 +3,7 @@
 
 ## Description
 
-A fitness tracking app, that allows a user to create and track daily workouts. For this assignment I was provided front end code that need the backend developed.  I created the Mongo database, Mongoose schema and developed the routes with uses express. 
+A fitness tracking app that allows a user to create and track daily workouts. For this assignment I was provided front end code that need the backend developed.  I created the Mongo database, Mongoose schema and developed the routes which uses express. 
 
 
 ## Installation and Usage
